@@ -6,3 +6,5 @@ print("List comprehension:", squares)
 
 # 2. Dictionary comprehension
 squares_dict = {x: x**2 for x in range(10)}
+
+AAAAAAAA
