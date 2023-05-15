@@ -1,0 +1,3 @@
+[submodule "tiktoken-rs"]
+	path = tiktoken-rs
+	url = git@github.com:anysphere/tiktoken-rs
