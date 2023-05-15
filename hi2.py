@@ -18,3 +18,4 @@ fruits = ["apple", "banana", "orange"]
 print("My favorite fruit is", fruits[0])
 print("I also like", fruits[1:], "and", fruits[-1])
 
+AAA
