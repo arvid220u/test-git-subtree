@@ -1,0 +1,3 @@
+[submodule "test-git-subtree-2/tiktoken-rs"]
+	path = test-git-subtree-2/tiktoken-rs
+	url = git@github.com:anysphere/tiktoken-rs
